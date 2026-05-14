@@ -64,10 +64,6 @@ notebook/    -> Main Colab notebook
 figure/      -> Figures used in README
 ```
 
-Real deterministic chaos example:
-
-https://guidocioni.substack.com/p/christmas-weather?r=70fjqb&utm_campaign=post&utm_medium=web&triedRedirect=true
-
 ## Intended use
 
 This material was prepared as a lightweight educational testbed for understanding how AI models learn, approximate, and sometimes diverge from chaotic physical systems.
