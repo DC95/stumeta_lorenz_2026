@@ -28,7 +28,7 @@ You can:
 
 ## Example result
 
-![Lorenz rollout](./figure/lorenz_rollout.png)
+![Lorenz rollout](./figure/long_rollout.png)
 
 ## Requirements
 
