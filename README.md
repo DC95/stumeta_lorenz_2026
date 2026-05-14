@@ -2,7 +2,7 @@
 
 This repository contains a simple and self-contained notebook introducing the Lorenz system, chaotic dynamics, and a neural-network-based emulator trained to reproduce Lorenz trajectories.
 
-The notebook is designed for educational and hackathon purposes and can be run directly in Google Colab.
+The notebook is designed for educational purposes and can be run directly in Google Colab.
 
 ## Notebook
 
